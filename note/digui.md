@@ -8,11 +8,11 @@
 
 #### 题目说明
 
-![](https://github.com/sspkuxuan/algorithm_study/raw/master/image/handuota.png)
+![汉诺塔](https://github.com/sspkuxuan/algorithm_study/raw/master/image/handuota.png)
 
 #### 解法说明
 
-![](https://github.com/sspkuxuan/algorithm_study/raw/master/image/jiefa.png)
+![解释](https://github.com/sspkuxuan/algorithm_study/raw/master/image/jiefa.png)
 
 #### c++ code
 
@@ -94,7 +94,7 @@ int main(){
 
 #### 定义
 
-![](https://github.com/sspkuxuan/algorithm_study/blob/master/image/nibolan.png)
+![逆波兰](https://github.com/sspkuxuan/algorithm_study/blob/master/image/nibolan.png)
 
 #### code C++
 
@@ -203,11 +203,11 @@ int expression_value(){
 
 #### 题目
 
-![]([https://github.com/sspkuxuan/algorithm_study/blob/master/image/%E7%88%AC%E6%A5%BC%E6%A2%AF1.png](https://github.com/sspkuxuan/algorithm_study/blob/master/image/爬楼梯1.png))
+![爬楼梯1](https://github.com/sspkuxuan/algorithm_study/blob/master/image/palouti1.png)
 
 #### 题解
 
-![]([https://github.com/sspkuxuan/algorithm_study/blob/master/image/%E7%88%AC%E6%A5%BC%E6%A2%AF1.png](https://github.com/sspkuxuan/algorithm_study/blob/master/image/爬楼梯2.png))
+![爬楼梯2](https://github.com/sspkuxuan/algorithm_study/blob/master/image/palouti2.png)
 
 边界条件的意思就是：递归的终止条件 递归一定要有终止条件 不能一直递归下去
 
@@ -236,11 +236,11 @@ int louti(int n){
 
 #### 题目
 
-![]([https://github.com/sspkuxuan/algorithm_study/blob/master/image/%E6%94%BE%E8%8B%B9%E6%9E%9C1.png](https://github.com/sspkuxuan/algorithm_study/blob/master/image/放苹果1.png))
+![放苹果1](https://github.com/sspkuxuan/algorithm_study/blob/master/image/fangpingguo1.png)
 
 #### 解释
 
-![]([https://github.com/sspkuxuan/algorithm_study/blob/master/image/%E6%94%BE%E8%8B%B9%E6%9E%9C1.png](https://github.com/sspkuxuan/algorithm_study/blob/master/image/放苹果2.png))
+![放苹果2](https://github.com/sspkuxuan/algorithm_study/blob/master/image/fangpingguo2.png)
 
 #### c++code
 
@@ -270,11 +270,11 @@ void main(){
 
 #### 题目
 
-![]([https://github.com/sspkuxuan/algorithm_study/blob/master/image/%E7%AE%97241.png](https://github.com/sspkuxuan/algorithm_study/blob/master/image/算241.png))
+![算241](https://github.com/sspkuxuan/algorithm_study/blob/master/image/suan241.png)
 
 #### 解释
 
-![]([https://github.com/sspkuxuan/algorithm_study/blob/master/image/%E7%AE%97241.png](https://github.com/sspkuxuan/algorithm_study/blob/master/image/算242.png))
+![算242](https://github.com/sspkuxuan/algorithm_study/blob/master/image/suan242.png)
 
 #### c++ code
 
