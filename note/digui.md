@@ -94,7 +94,7 @@ int main(){
 
 #### 定义
 
-![]([https://github.com/sspkuxuan/algorithm_study/blob/master/image/%E9%80%86%E6%B3%A2%E5%85%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F.png](https://github.com/sspkuxuan/algorithm_study/blob/master/image/逆波兰表达式.png))
+![](https://github.com/sspkuxuan/algorithm_study/raw/master/image/nibolan.png)
 
 #### code C++
 
@@ -128,9 +128,9 @@ int main(){
 
 #### 逻辑图
 
-![表达式1]([https://github.com/sspkuxuan/algorithm_study/blob/master/image/%E8%A1%A8%E8%BE%BE%E5%BC%8F1.png](https://github.com/sspkuxuan/algorithm_study/blob/master/image/表达式1.png))
+![表达式1](https://github.com/sspkuxuan/algorithm_study/raw/master/image/biaodashi1.png)
 
-![表达式2]([https://github.com/sspkuxuan/algorithm_study/blob/master/image/%E8%A1%A8%E8%BE%BE%E5%BC%8F1.png](https://github.com/sspkuxuan/algorithm_study/blob/master/image/表达式2.png))
+![表达式2](https://github.com/sspkuxuan/algorithm_study/raw/master/image/biaodashi2.png)
 
 
 
