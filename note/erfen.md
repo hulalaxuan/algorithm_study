@@ -83,7 +83,9 @@ void main(){
 
 #### 题解
 
+![题解1](https://github.com/sspkuxuan/algorithm_study/raw/master/image2/zhaoyiduishu1.png)
 
+![题解2](https://github.com/sspkuxuan/algorithm_study/raw/master/image2/zhaoyiduishu2.png)
 
 #### code c++
 
@@ -137,6 +139,12 @@ void main(){
 ### 农夫和奶牛
 
 #### 题解
+
+![题解1](https://github.com/sspkuxuan/algorithm_study/raw/master/image2/nainiu1.png)
+
+![题解2](https://github.com/sspkuxuan/algorithm_study/raw/master/image2/nainiu2.png)
+
+![题解3](https://github.com/sspkuxuan/algorithm_study/raw/master/image2/nainiu3.png)
 
 #### code c++
 

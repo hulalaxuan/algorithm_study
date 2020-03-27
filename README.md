@@ -8,5 +8,13 @@
 
 ## 递归
 
-[第二章递归代码笔记](https://github.com/sspkuxuan/algorithm_study/blob/master/note/digui.md)
+[第二章递归代码笔记-md](https://github.com/sspkuxuan/algorithm_study/blob/master/note/digui.md)
+
+[第二章递归代码笔记-pdf](https://github.com/sspkuxuan/algorithm_study/blob/master/note/digui.pdf)
+
+## 二分算法
+
+[第三章二分算法笔记-md](https://github.com/sspkuxuan/algorithm_study/blob/master/note/erfen.md)
+
+[第三章二分算法笔记-pdf](https://github.com/sspkuxuan/algorithm_study/blob/master/note/erfen.pdf)
 
