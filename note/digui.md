@@ -203,11 +203,11 @@ int expression_value(){
 
 #### 题目
 
-![爬楼梯1](https://github.com/sspkuxuan/algorithm_study/blob/master/image/palouti1.png)
+![爬楼梯1](https://github.com/sspkuxuan/algorithm_study/raw/master/image/palouti1.png)
 
 #### 题解
 
-![爬楼梯2](https://github.com/sspkuxuan/algorithm_study/blob/master/image/palouti2.png)
+![爬楼梯2](https://github.com/sspkuxuan/algorithm_study/raw/master/image/palouti2.png)
 
 边界条件的意思就是：递归的终止条件 递归一定要有终止条件 不能一直递归下去
 
@@ -236,11 +236,11 @@ int louti(int n){
 
 #### 题目
 
-![放苹果1](https://github.com/sspkuxuan/algorithm_study/blob/master/image/fangpingguo1.png)
+![放苹果1](https://github.com/sspkuxuan/algorithm_study/raw/master/image/fangpingguo1.png)
 
 #### 解释
 
-![放苹果2](https://github.com/sspkuxuan/algorithm_study/blob/master/image/fangpingguo2.png)
+![放苹果2](https://github.com/sspkuxuan/algorithm_study/raw/master/image/fangpingguo2.png)
 
 #### c++code
 
@@ -270,11 +270,11 @@ void main(){
 
 #### 题目
 
-![算241](https://github.com/sspkuxuan/algorithm_study/blob/master/image/suan241.png)
+![算241](https://github.com/sspkuxuan/algorithm_study/raw/master/image/suan241.png)
 
 #### 解释
 
-![算242](https://github.com/sspkuxuan/algorithm_study/blob/master/image/suan242.png)
+![算242](https://github.com/sspkuxuan/algorithm_study/raw/master/image/suan242.png)
 
 #### c++ code
 
