@@ -94,7 +94,7 @@ int main(){
 
 #### 定义
 
-![](https://github.com/sspkuxuan/algorithm_study/raw/master/image/nibolan.png)
+![](https://github.com/sspkuxuan/algorithm_study/blob/master/image/nibolan.png)
 
 #### code C++
 
