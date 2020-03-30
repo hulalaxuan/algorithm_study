@@ -4,13 +4,15 @@
 
 分治算法很多是用递归进行实现的
 
+![分治基本概念](https://github.com/sspkuxuan/algorithm_study/raw/master/fenzhi/1.png)
+
 ### 归并排序
 
 归并[排序](https://baike.baidu.com/item/排序)是稳定的排序.即相等的元素的顺序不会改变，时间复杂度nlogn,最坏时间复杂度也是nlogn，平均时间仅次于快速排序,采用分治思想。
 
 #### 题解
 
-
+![归并排序题解1](https://github.com/sspkuxuan/algorithm_study/raw/master/fenzhi/guibing1.png)
 
 #### code c++
 
@@ -54,7 +56,7 @@ void main(){
 
 #### 题解
 
-
+![快排1](https://github.com/sspkuxuan/algorithm_study/raw/master/fenzhi/kuaipai.png)
 
 #### code c++
 
@@ -90,6 +92,12 @@ void main(){
 ### 前m大数
 
 #### 题解
+
+![前m1](https://github.com/sspkuxuan/algorithm_study/raw/master/fenzhi/qianmdashu1.png)
+
+![前m2](https://github.com/sspkuxuan/algorithm_study/raw/master/fenzhi/qianmdashu2.png)
+
+![前m3](https://github.com/sspkuxuan/algorithm_study/raw/master/fenzhi/qianmdashu3.png)
 
 
 
@@ -155,6 +163,14 @@ void main(){
 ### 逆序数
 
 #### 题解
+
+![逆序1](https://github.com/sspkuxuan/algorithm_study/raw/master/fenzhi/nixu1.png)
+
+![逆序1](https://github.com/sspkuxuan/algorithm_study/raw/master/fenzhi/nixu2.png)
+
+![逆序1](https://github.com/sspkuxuan/algorithm_study/raw/master/fenzhi/nixu3.png)
+
+![逆序1](https://github.com/sspkuxuan/algorithm_study/raw/master/fenzhi/nixu4.png)
 
 #### code c++
 

@@ -18,3 +18,8 @@
 
 [第三章二分算法笔记-pdf](https://github.com/sspkuxuan/algorithm_study/blob/master/note/erfen.pdf)
 
+## 分治算法
+
+[第四章分治笔记-md](https://github.com/sspkuxuan/algorithm_study/blob/master/note/fenzhi.md)
+
+[第四章分治算法笔记-pdf](https://github.com/sspkuxuan/algorithm_study/blob/master/note/fenzhi.pdf)
