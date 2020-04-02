@@ -4,6 +4,14 @@
 
 动态规划就是去掉重复计算
 
+![动态1](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/dongtai1.png)
+
+![动态2](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/dongtai2.png)
+
+![动态3](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/dongtai3.png)
+
+![动态4](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/dongtai4.png)
+
 ### 数字三角形
 
 #### 题解
