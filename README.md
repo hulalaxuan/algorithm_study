@@ -23,3 +23,9 @@
 [第四章分治笔记-md](https://github.com/sspkuxuan/algorithm_study/blob/master/note/fenzhi.md)
 
 [第四章分治算法笔记-pdf](https://github.com/sspkuxuan/algorithm_study/blob/master/note/fenzhi.pdf)
+
+## 动态规划
+
+[第五章动态规划笔记-md](https://github.com/sspkuxuan/algorithm_study/blob/master/note/dongtaiguihua.md)
+
+[第五章动态规划笔记-pdf](https://github.com/sspkuxuan/algorithm_study/blob/master/note/dongtaiguihua.pdf)

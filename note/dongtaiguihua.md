@@ -16,7 +16,11 @@
 
 #### 题解
 
+![数字三角](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/shuzisanjiao1.png)
 
+![数字三角](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/shuzisanjiao2.png)![数字三角](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/shuzisanjiao1.png)![数字三角](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/shuzisanjiao3.png)
+
+![数字三角](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/shuzisanjiao4.png)
 
 #### code c++
 
@@ -83,6 +87,10 @@ void main(){
 
 #### 题解
 
+![口袋](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/koudai1.png)
+
+
+
 #### code c++
 
 ```c++
@@ -125,6 +133,8 @@ int main(){
 ### 背包问题
 
 #### 题解
+
+![背包](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/beibao.png)
 
 #### code c++
 
@@ -192,6 +202,16 @@ void main(){
 
 #### 题解
 
+![最长子序列](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/zuichangzixulie1.png)
+
+![最长子序列](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/zuichangzixulie2.png)
+
+![最长子序列](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/zuichangzixulie3.png)
+
+![最长子序列](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/zuichangzixulie4.png)
+
+![最长子序列](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/zuichangzixulie5.png)
+
 #### code c++
 
 ```c++
@@ -221,6 +241,16 @@ void main(){
 ### 两字符串最长公共序列
 
 #### 题解
+
+![字符](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/zifuchuangxulie1.png)
+
+![字符](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/zifuchuangxulie2.png)
+
+![字符](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/zifuchuangxulie3.png)
+
+![字符](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/zifuchuangxulie4.png)
+
+![字符](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/zifuchuangxulie5.png)
 
 #### code c++
 
@@ -256,6 +286,10 @@ void main(){
 ### 最佳加法表达式
 
 #### 题解
+
+![加法](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/jiafa1.png)
+
+![加法](https://github.com/sspkuxuan/algorithm_study/raw/master/dongtaiguihua/jiafa2.png)
 
 #### code c++
 
