@@ -29,3 +29,9 @@
 [第五章动态规划笔记-md](https://github.com/sspkuxuan/algorithm_study/blob/master/note/dongtaiguihua.md)
 
 [第五章动态规划笔记-pdf](https://github.com/sspkuxuan/algorithm_study/blob/master/note/dongtaiguihua.pdf)
+
+## 深度优先搜索
+
+[第六章深度优先搜索笔记-md](https://github.com/sspkuxuan/algorithm_study/blob/master/note/dfs.md)
+
+[第六章深度优先搜索笔记-pdf](https://github.com/sspkuxuan/algorithm_study/blob/master/note/dfs.pdf)
