@@ -4,7 +4,7 @@
 
 ### bfs
 
-
+![bfs](https://github.com/sspkuxuan/algorithm_study/raw/master/bfs/bfs1.png)
 
 
 
@@ -14,7 +14,11 @@
 
 #### 题解
 
+![zhuanainiu](https://github.com/sspkuxuan/algorithm_study/raw/master/bfs/zhuaniu1.png)
 
+![zhuanainiu](https://github.com/sspkuxuan/algorithm_study/raw/master/bfs/zhuaniu2.png)
+
+![zhuanainiu](https://github.com/sspkuxuan/algorithm_study/raw/master/bfs/zhuaniu3.png)
 
 #### code c++
 
@@ -67,7 +71,13 @@ int main(){
 
 
 
+![bashuma](https://github.com/sspkuxuan/algorithm_study/raw/master/bfs/bashuma1.png)
 
+![bashuma](https://github.com/sspkuxuan/algorithm_study/raw/master/bfs/bashuma2.png)
+
+![bashuma](https://github.com/sspkuxuan/algorithm_study/raw/master/bfs/bashuma3.png)
+
+![bashuma](https://github.com/sspkuxuan/algorithm_study/raw/master/bfs/bashuma4.png)
 
 #### code
 

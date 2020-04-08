@@ -6,6 +6,12 @@
 
 #### 题解
 
+![shengdan](https://github.com/sspkuxuan/algorithm_study/raw/master/tanxin/shengdan1.png)
+
+![shengdan](https://github.com/sspkuxuan/algorithm_study/raw/master/tanxin/shengdan2.png)
+
+![shengdan](https://github.com/sspkuxuan/algorithm_study/raw/master/tanxin/shengdan3.png)
+
 #### code c++
 
 ```c++
@@ -77,6 +83,12 @@ int main(){
 
 #### 题解
 
+![dianying](https://github.com/sspkuxuan/algorithm_study/raw/master/tanxin/dianying1.png)
+
+![dianying](https://github.com/sspkuxuan/algorithm_study/raw/master/tanxin/dianying2.png)
+
+![dianying](https://github.com/sspkuxuan/algorithm_study/raw/master/tanxin/dianying3.png)
+
 #### code c++
 
 ```c++
@@ -143,6 +155,12 @@ out is 5请按任意键继续. . .
 ### 喂奶牛
 
 #### 题解
+
+![nainiu](https://github.com/sspkuxuan/algorithm_study/raw/master/tanxin/nainiu1.png)
+
+![nainiu](https://github.com/sspkuxuan/algorithm_study/raw/master/tanxin/nainiu2.png)
+
+![nainiu](https://github.com/sspkuxuan/algorithm_study/raw/master/tanxin/nainiu3.png)
 
 #### code c++
 
