@@ -35,3 +35,15 @@
 [第六章深度优先搜索笔记-md](https://github.com/sspkuxuan/algorithm_study/blob/master/note/dfs.md)
 
 [第六章深度优先搜索笔记-pdf](https://github.com/sspkuxuan/algorithm_study/blob/master/note/dfs.pdf)
+
+## 广度优先搜索
+
+[第七章广度优先搜索笔记-md](https://github.com/sspkuxuan/algorithm_study/blob/master/note/bfs.md)
+
+[第七章广度优先搜索笔记-pdf](https://github.com/sspkuxuan/algorithm_study/blob/master/note/bfs.pdf)
+
+## 贪心算法
+
+[第八章深度优先搜索笔记-md](https://github.com/sspkuxuan/algorithm_study/blob/master/note/tanxin.md)
+
+[第八章深度优先搜索笔记-pdf](https://github.com/sspkuxuan/algorithm_study/blob/master/note/tanxin.pdf)
